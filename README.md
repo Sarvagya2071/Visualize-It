@@ -1,0 +1,5 @@
+# Visualize-It
+We have performed a survey among a large number of students from  schools  and  colleges  regarding  how/what  should  be  done  to  increase  their efficiency  in  the  study  and  understanding  the  various  important  concepts,  then  we came  to  know  that  they  all  are  lackingin  visualizing  conceptual  problems.
+Like school-going  students,  they  lack  in  visualizing  various  physics  and  mathematical concepts like graphs, calculus, simple harmonic motions, waves, ray optics, and also face difficulty if remembering those conceptsand also, face serious problems while visualizing  various  algorithms.
+The  schools  that  are  located  in  distant  rural  areas don’t have access to quality education for the students studying there will face a lot of problems while studying critical conceptual and visualization problems, for them also  our  application  is  going  to  be  an  efficient  one  as  everything  will  be  coming handy.
+Thus we have decided to make a complete application(both web and mobile versions available) to mitigate these issues.
